@@ -1,0 +1,17 @@
+# Created using wingetcreate 1.6.1.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
+
+PackageIdentifier: XenServer.XenServerVMTools
+PackageVersion: 9.3.2
+PackageLocale: en-US
+Publisher: XenServer
+PublisherUrl: https://www.xenserver.com
+PackageName: XenServer VM Tools
+License: MIT License
+Copyright: Copyright (C) Cloud Software Group, Inc.
+ShortDescription: XenServer VM Tools for Windows VMs
+Moniker: xentools
+Tags:
+- xen
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0
